@@ -2,3 +2,4 @@ For my 10th grade robotics class I created a arduino radar turret. The radar rot
 Radar.ino contains the arduino code and Radar.pde just creates a nice looking visualization. I'm pretty proud of some of this, but I'd be lying if i said this wasnt something of a rush job.
 I was slightly limited by my materials, and if I had gotten my handas on a better radar bit, I think this project could've came out a lot nicer. 
 
+The movie file shows the project in action, and anyone is of course welcome to attempt to replicate my crappy, rushed wiring. 
